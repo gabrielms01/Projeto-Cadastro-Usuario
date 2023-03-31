@@ -1,11 +1,19 @@
 {
-    "users": [{
-        "id": 1,
-        "name": "Gabriel Soares",
-        "email": "gabriel.soares@gmail.com"
-    }, {
-        "id": 2,
-        "name": "Sarah Caroline",
-        "email": "sarah.caroline@gmail.com"
-    }]
+  "users": [
+    {
+      "id": 1,
+      "name": "Gabriel Oliveira Soares",
+      "email": "gabriel.soares@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Sarah Caroline",
+      "email": "sarah.caroline@gmail.com"
+    },
+    {
+      "name": "Gabriel Menezes",
+      "email": "gmenezes111@gmail.com",
+      "id": 3
+    }
+  ]
 }
